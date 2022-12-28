@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>VPN Transparency Project</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Tue, 27 Dec 2022 05:30:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">212249812</site>	<item>
+		<title>AdGuard Upgrades VPN Clients to V2.0</title>
+		<link>/adguard-upgrades-vpn-clients-to-v2-0/</link>
+					<comments>/adguard-upgrades-vpn-clients-to-v2-0/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Tue, 27 Dec 2022 01:56:34 +0000</pubDate>
+				<category><![CDATA[Blog]]></category>
+		<category><![CDATA[adguard]]></category>
+		<category><![CDATA[news]]></category>
+		<guid isPermaLink="false">/?p=922</guid>
+
+					<description><![CDATA[<p>AdGuard have upgraded their Windows and Mac clients to V2.0 with some brand new features. AdGuard is personally one of my favorite privacy companies due to their prolific suite of customizable and unique services ranging from adblocking DNS to VPN apps. From their blog: This version is a milestone for both desktop AdGuard VPN apps: firstly, they&#8217;ve been fully redesigned. And secondly, now the UI will be the same for both AdGuard VPN for Windows and AdGuard VPN for Mac. For the new version, we wanted to bring these two apps to perfection: we were thinking and re-thinking the design,…</p>
+<p>The post <a rel="nofollow" href="/adguard-upgrades-vpn-clients-to-v2-0/">AdGuard Upgrades VPN Clients to V2.0</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p><strong><a href="/adguard/">AdGuard</a></strong> have upgraded their Windows and Mac clients to V2.0 with some brand new features. AdGuard is personally one of my favorite privacy companies due to their prolific suite of customizable and unique services ranging from adblocking DNS to VPN apps. From <a href="https://adguard-vpn.com/en/blog/adguard-vpn-2-0-for-mac-and-windows.html" target="_blank" rel="noreferrer noopener">their blog</a>:</p>
+
+
+
+<blockquote class="wp-block-quote">
+<p>This version is a milestone for both desktop AdGuard VPN apps: firstly, they&#8217;ve been fully redesigned. And secondly, now the UI will be the same for both AdGuard VPN for Windows and AdGuard VPN for Mac.</p>
+
+
+
+<p>For the new version, we wanted to bring these two apps to perfection: we were thinking and re-thinking the design, digging into details, hunting bugs and fixing them.</p>
+</blockquote>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i0.wp.com/cdn.adguardvpn.com/content/release_notes/vpn/windows/v2.0/new_main_window_en.png?w=1290&#038;ssl=1" alt="" data-recalc-dims="1"/></figure>
+
+
+
+<blockquote class="wp-block-quote">
+<ul>
+<li>The new design has finally covered AdGuard VPN apps for all platforms: on the main screen, you&#8217;re greeted by Tengu the ninja. Look how handsome he is! Now AdGuard VPN for Windows and Mac can boast such a screen, too.</li>
+
+
+
+<li>The Exclusions screen looks more compact now. To switch between&nbsp;<em>General</em>&nbsp;and&nbsp;<em>Selective</em>, just click&nbsp;<em>Change mode</em>.</li>
+
+
+
+<li>App exclusions have become more intuitive, too: you&#8217;ll now see the&nbsp;<em>App exclusions</em>&nbsp;tab in place of&nbsp;<em>Split tunneling</em>.</li>
+
+
+
+<li>On the Support screen, it&#8217;s now easier to export logs.</li>
+
+
+
+<li>On the Settings screen, the icons and the wordings are more user-friendly.</li>
+</ul>
+
+
+
+<h2 id="windowsonarmsupport">Windows on ARM support</h2>
+
+
+
+<p>Just like in AdGuard for Windows&nbsp;<a href="https://adguard.com/blog/adguard-v7-11-for-windows.html">some time ago</a>, we’ve made it possible to install AdGuard VPN on ARM-based Windows devices. Now, whether you have a Windows computer with a 64-bit ARM processor or use virtualization software on your Mac with M1, we’ll automatically detect this and install the right driver.</p>
+
+
+
+<h2 id="otherimprovements">Other improvements</h2>
+
+
+
+<p>Here are small updates that are important to keep our apps working properly:</p>
+
+
+
+<ul>
+<li>made sure that the apps for Mac and Windows work even in countries that have difficulties with VPN services</li>
+
+
+
+<li>updated the VPN client</li>
+
+
+
+<li><a href="https://github.com/AdguardTeam/AdGuardVPNForWindows/releases/tag/v2.0.0">fixed bugs</a>&nbsp;in AdGuard VPN for Windows</li>
+
+
+
+<li><a href="https://github.com/AdguardTeam/AdGuardVPNForMac/releases/tag/v2.0">fixed bugs</a>&nbsp;in AdGuard VPN for Mac</li>
+</ul>
+</blockquote>
+
+
+
+<h2>Related Posts</h2>
+
+
+<nav class="jp-relatedposts-i2 wp-block-jetpack-related-posts" data-layout="grid"><div class="jp-related-posts-i2__row" data-post-count="3"><ul id="related-posts-item-63aba0a2afdd0" aria-labelledby="related-posts-item-63aba0a2afdd0-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2afdd0-label" href="/adguard/" >AdGuard VPN Network Overview</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/adguard/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/AdGuard.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li><li class="jp-related-posts-i2__post-date">November 14, 2022</li></ul><ul id="related-posts-item-63aba0a2afdf6" aria-labelledby="related-posts-item-63aba0a2afdf6-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2afdf6-label" href="/mullvad/" >Mullvad</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/mullvad/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/Mullvad-Graph.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li><li class="jp-related-posts-i2__post-date">November 10, 2022</li></ul><ul id="related-posts-item-63aba0a2afe0b" aria-labelledby="related-posts-item-63aba0a2afe0b-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2afe0b-label" href="/aloha-browser-vpn/" >Aloha Browser VPN</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/aloha-browser-vpn/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/img_1577.png?fit=1024%2C512&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li><li class="jp-related-posts-i2__post-date">November 13, 2022</li></ul></div></nav>
+
+
+<p></p>
+<p>The post <a rel="nofollow" href="/adguard-upgrades-vpn-clients-to-v2-0/">AdGuard Upgrades VPN Clients to V2.0</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/adguard-upgrades-vpn-clients-to-v2-0/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">922</post-id>	</item>
+		<item>
+		<title>Cloudflare Warp+</title>
+		<link>/cloudflare-warp/</link>
+					<comments>/cloudflare-warp/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Sat, 24 Dec 2022 17:46:32 +0000</pubDate>
+				<category><![CDATA[VPNs]]></category>
+		<guid isPermaLink="false">/?p=824</guid>
+
+					<description><![CDATA[<p>Depending on your thread model, Warp or Warp+ may or may not be what you need. Remember that VPNs come in many different types, all offering unique abilities or features, most of which come at a cost. WARP isn’t like a regular VPN. It isn’t meant for advanced users, but it&#8217;s good for beginners because it’s so easy to use. Warp+ is an enhanced version of Cloudflare&#8217;s Warp VPN service. It uses the WireGuard VPN protocol, which is known for its speed and security, to encrypt and secure your internet connection. Warp+ also includes Cloudflare&#8217;s Argo technology, which uses artificial intelligence and…</p>
+<p>The post <a rel="nofollow" href="/cloudflare-warp/">Cloudflare Warp+</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Depending on your <a href="/articles/threat-model/">thread model</a>, Warp or Warp+ may or may not be what you need. Remember that VPNs come in many <a href="/articles/types-of-vpns/">different types</a>, all offering unique abilities or features, most of which come at a cost. WARP isn’t like a regular VPN. It isn’t meant for advanced users, but <strong>it&#8217;s good for beginners</strong> because it’s so easy to use.</p>
+
+
+
+<p></p>
+
+
+
+<p>Warp+ is an enhanced version of Cloudflare&#8217;s Warp VPN service. It uses the WireGuard VPN protocol, which is known for its speed and security, to encrypt and secure your internet connection. Warp+ also includes Cloudflare&#8217;s Argo technology, which uses artificial intelligence and machine learning to optimize the routing of your internet traffic for faster performance.</p>
+
+
+
+<p>Cloudflare Warp+ is available as an add-on service for users of Cloudflare&#8217;s 1.1.1.1 app, which is a DNS resolver that helps to improve the privacy and security of your internet connection. To use Warp+, you will need to download the 1.1.1.1 app and purchase a Warp+ subscription through the app. Warp+ is available for both iOS and Android devices.</p>
+
+
+
+<p><strong>It doesn’t let you choose your location, and it isn&#8217;t good for streaming.</strong>&nbsp;This got me wondering: is it really a good alternative to the more traditional VPNs out there? So,&nbsp;<strong>I put WARP through a series of tests</strong>&nbsp;to see if it’s safe, reliable, and useful.</p>
+
+
+
+<p>Cloudflare&#8217;s official position on privacy is that it &#8220;stores the absolute minimum amount of data we believe is required to provide the 1.1.1.1 service&#8221;, including &#8220;limited DNS query and traffic data&#8221;, your app installation ID, average speed and amount of data transferred, which it pledges to never sell, rent or disclose &#8220;except as necessary to provide our services.&#8221;</p>
+
+
+
+<p>The company says that it stores no personally identifying data. But other VPN companies have previously made no-logging claims only to renege on that and hand user data over to government agencies, so we tend to prefer those who&#8217;ve either had this demonstrated through legal or police action, or with an independent audit, neither of which applies to Warp. And although Cloudflare&#8217;s reputation is generally very robust when it comes to privacy, it&#8217;s worth once again noting that this is not a full, privacy-oriented VPN service in the first place.</p>
+
+
+
+<p>Cloudflare insists that WARP is built for the &#8216;average consumer&#8217;, but that line is very much predicated on the assumption that other VPN services are hard to use. In reality, when it comes to mobile VPNs your only challenge is picking a decent provider – we recommend&nbsp;<a href="/protonvpn/">ProtonVPN</a>&nbsp;and <a href="/windscribe/">Windscribe</a> for free, and&nbsp;<a href="/nordvpn/">NordVPN</a>,&nbsp;<a href="/private-internet-access/">Private Internet Access</a>&nbsp;or&nbsp;<a href="/expressvpn/">ExpressVPN</a>&nbsp;if you&#8217;ve got money to spend.</p>
+
+
+
+<p>Actually using a mobile VPN is generally a one-tap affair – two if you want to select your endpoint location from an extended list. 1.1.1.1 with Warp is best regarded as a local security tool that could potentially provide a connection speed boost. It&#8217;s free and unlimited, but it won&#8217;t conceal your IP address from the sites you connect to.</p>
+
+
+<nav class="jp-relatedposts-i2 wp-block-jetpack-related-posts" data-layout="grid"><div class="jp-related-posts-i2__row" data-post-count="3"><ul id="related-posts-item-63aba0a2b2d60" aria-labelledby="related-posts-item-63aba0a2b2d60-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b2d60-label" href="/how-to-get-a-free-and-fast-vpn-from-cloudflare/" >How to get a free and fast VPN from Cloudflare</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/how-to-get-a-free-and-fast-vpn-from-cloudflare/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/Cloudflare_default_OG_.webp?fit=1200%2C627&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li><li class="jp-related-posts-i2__post-date">December 9, 2022</li></ul><ul id="related-posts-item-63aba0a2b2d86" aria-labelledby="related-posts-item-63aba0a2b2d86-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b2d86-label" href="/are-vpns-illegal/" >Are VPNs illegal?</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/are-vpns-illegal/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/handcuffscomputer.png?fit=1024%2C1024&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li><li class="jp-related-posts-i2__post-date">December 8, 2022</li></ul><ul id="related-posts-item-63aba0a2b2d9d" aria-labelledby="related-posts-item-63aba0a2b2d9d-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b2d9d-label" href="/mozilla-network/" >Mozilla VPN Network Overview</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/mozilla-network/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/mozilla-logo.png?fit=1200%2C675&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="Mozilla Logo" loading="lazy" /></a></li><li class="jp-related-posts-i2__post-date">November 11, 2022</li></ul></div></nav><p>The post <a rel="nofollow" href="/cloudflare-warp/">Cloudflare Warp+</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cloudflare-warp/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">824</post-id>	</item>
+		<item>
+		<title>How to get a free and fast VPN from Cloudflare</title>
+		<link>/how-to-get-a-free-and-fast-vpn-from-cloudflare/</link>
+					<comments>/how-to-get-a-free-and-fast-vpn-from-cloudflare/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Fri, 09 Dec 2022 01:58:11 +0000</pubDate>
+				<category><![CDATA[VPNs]]></category>
+		<category><![CDATA[cloudflare]]></category>
+		<guid isPermaLink="false">/?p=772</guid>
+
+					<description><![CDATA[<p>Everybody knows the name Cloudflare nowadays for the reputation for providing a plethora of free services that increase the performance, reliability, and security of millions of online services. Your router may be using 1.1.1.1 as a DNS resolver without you even realizing it. A while back, Cloudflare offered a VPN service known as &#8220;Warp+&#8221; but it was very limited in functionality and cost money. Well, I&#8217;m here to tell you that there is a workaround to get their VPN for free. Just requires some time and a little technical know how. Cloudflare recently launched a service called &#8220;Zero Trust&#8221; which…</p>
+<p>The post <a rel="nofollow" href="/how-to-get-a-free-and-fast-vpn-from-cloudflare/">How to get a free and fast VPN from Cloudflare</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Everybody knows the name <strong>Cloudflare</strong> nowadays for the reputation for providing a plethora of free services that increase the performance, reliability, and security of millions of online services. Your router may be using 1.1.1.1 as a DNS resolver without you even realizing it. A while back, Cloudflare offered a VPN service known as &#8220;Warp+&#8221; but it was very limited in functionality and cost money. Well, I&#8217;m here to tell you that there is a workaround to get their VPN for free. Just requires some time and a little technical know how.</p>
+
+
+
+<p>Cloudflare recently launched a service called &#8220;Zero Trust&#8221; which is built on the Warp platform but is designed for IT professionals to monitor their networks and also provide VPN functionality for remote employees. This means if you set up a free tier Zero Trust account you receive all of the same benefits as Warp+, for free. Here&#8217;s the steps:</p>
+
+
+
+<p>1) Register a free account on Cloudflare -&gt;&nbsp;<a rel="noreferrer noopener" href="https://dash.cloudflare.com/sign-up" target="_blank">https://dash.cloudflare.com/sign-up</a><br>2) Enable Zero Trust on your account -&gt;&nbsp;<a rel="noreferrer noopener" href="https://dash.teams.cloudflare.com/" target="_blank">https://dash.teams.cloudflare.com/</a></p>
+
+
+
+<p>3) Set up your &#8220;location&#8221; as this will ensure you get the nearest servers for the best possible performance</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i0.wp.com/i.imgur.com/b3ekAVm.png?w=1290&#038;ssl=1" alt="" data-recalc-dims="1"/></figure>
+
+
+
+<p>4) If all you want is private and fast DNS queries, they provide instructions on how to manually enter the DNS ip information. What we want however if the full VPN experience.</p>
+
+
+
+<p>5) You will need to download the Warp client. -&gt;&nbsp;<a rel="noreferrer noopener" href="https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp" target="_blank">https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp</a></p>
+
+
+
+<p>6) At that point you will have to configure an access URL for your new &#8220;team&#8221;:</p>
+
+
+
+<p>Settings &#8211; Team Name</p>
+
+
+
+<p>7) Once you have that set up, log in to the Cloudflare Warp app and authenticate Zero Trust using your custom url:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i0.wp.com/i.imgur.com/OGvy7QG.png?w=1290&#038;ssl=1" alt="" data-recalc-dims="1"/><figcaption class="wp-element-caption">8) Here&#8217;s my speeds with Zero Trust enabled:</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i0.wp.com/i.imgur.com/Y9KUHzb.png?w=1290&#038;ssl=1" alt="" data-recalc-dims="1"/><figcaption class="wp-element-caption">9) With some trial and error, you can use their network policies to block ads and other malicious / tracking content:</figcaption></figure>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://i0.wp.com/i.imgur.com/N83SEGn.png?w=1290&#038;ssl=1" alt="" data-recalc-dims="1"/></figure>
+
+
+<nav class="jp-relatedposts-i2 wp-block-jetpack-related-posts" data-layout="grid"><div class="jp-related-posts-i2__row" data-post-count="3"><ul id="related-posts-item-63aba0a2b510c" aria-labelledby="related-posts-item-63aba0a2b510c-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b510c-label" href="/cloudflare-warp/" >Cloudflare Warp+</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/cloudflare-warp/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/Cloudflare_default_OG_.webp?fit=1200%2C627&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2b5131" aria-labelledby="related-posts-item-63aba0a2b5131-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b5131-label" href="/f-secure-freedome/" >F-Secure FREEDOME</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/f-secure-freedome/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Freedome.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2b5146" aria-labelledby="related-posts-item-63aba0a2b5146-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b5146-label" href="/windscribe/" >Windscribe</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/windscribe/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul></div></nav><p>The post <a rel="nofollow" href="/how-to-get-a-free-and-fast-vpn-from-cloudflare/">How to get a free and fast VPN from Cloudflare</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/how-to-get-a-free-and-fast-vpn-from-cloudflare/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">772</post-id>	</item>
+		<item>
+		<title>Are VPNs illegal?</title>
+		<link>/are-vpns-illegal/</link>
+					<comments>/are-vpns-illegal/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Thu, 08 Dec 2022 00:53:39 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=746</guid>
+
+					<description><![CDATA[<p>In most cases, VPNs are not illegal. However, there are some countries where the use of VPNs is restricted or banned. In some cases, using a VPN in these countries may be illegal, and you could face penalties for doing so. Some examples of countries where the use of VPNs is restricted or banned include China, Russia, and Iran. In these countries, using a VPN to access restricted content or to hide your internet activity from the government may be illegal. It&#8217;s important to note that the legality of VPNs can vary depending on the specific laws of the country…</p>
+<p>The post <a rel="nofollow" href="/are-vpns-illegal/">Are VPNs illegal?</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image alignright size-large is-resized"><img decoding="async" loading="lazy" src="https://i0.wp.com/new.whoisyourvpn.com/wp-content/uploads/2022/12/handcuffscomputer-1024x1024.png?resize=146%2C146" alt="" class="wp-image-747" width="146" height="146" data-recalc-dims="1" /></figure>
+
+
+
+<p>In most cases, VPNs are not illegal. However, there are some countries where the use of VPNs is restricted or banned. In some cases, using a VPN in these countries may be illegal, and you could face penalties for doing so.</p>
+
+
+
+<p>Some examples of countries where the use of VPNs is restricted or banned include China, Russia, and Iran. In these countries, using a VPN to access restricted content or to hide your internet activity from the government may be illegal.</p>
+
+
+
+<p>It&#8217;s important to note that the legality of VPNs can vary depending on the specific laws of the country you are in. If you are unsure about the legality of VPNs in your country, it&#8217;s a good idea to research the laws and regulations in your area before using a VPN.</p>
+
+
+
+<p>Overall, while VPNs are not typically illegal, it&#8217;s important to be aware of any potential restrictions or bans in your country before using one.</p>
+
+
+<nav class="jp-relatedposts-i2 wp-block-jetpack-related-posts" data-layout="grid"><div class="jp-related-posts-i2__row" data-post-count="3"><ul id="related-posts-item-63aba0a2b7346" aria-labelledby="related-posts-item-63aba0a2b7346-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b7346-label" href="/torguard-network-overview/" >TorGuard Network Overview</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/torguard-network-overview/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/TorGuard1.png?fit=1024%2C768&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2b736a" aria-labelledby="related-posts-item-63aba0a2b736a-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b736a-label" href="/expressvpn/" >ExpressVPN</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/expressvpn/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/ExpressVPN.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2b737f" aria-labelledby="related-posts-item-63aba0a2b737f-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2b737f-label" href="/vpns/" >VPNs</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/vpns/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/what-is-a-vpn.jpg?fit=1200%2C758&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul></div></nav><p>The post <a rel="nofollow" href="/are-vpns-illegal/">Are VPNs illegal?</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/are-vpns-illegal/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">746</post-id>	</item>
+		<item>
+		<title>IVPN</title>
+		<link>/ivpn/</link>
+					<comments>/ivpn/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Wed, 07 Dec 2022 04:06:54 +0000</pubDate>
+				<category><![CDATA[VPNs]]></category>
+		<guid isPermaLink="false">/?p=735</guid>
+
+					<description><![CDATA[<p>IVPN offers an interesting mix of power and ease of use, and has an independently audited no-logging policy that we can actually believe. It&#8217;s relatively expensive, but if you&#8217;re after a quality service, this could be a price worth paying. IVPN is a small Gibraltar-registered service that has been preserving its customers&#8217; privacy since 2009. The company&#8217;s VPN network looks average, with servers in 45 locations across 32 countries. Torrents are supported everywhere, in theory, although the company politely asks that users avoid P2P on US servers. Tags Related Posts</p>
+<p>The post <a rel="nofollow" href="/ivpn/">IVPN</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>IVPN offers an interesting mix of power and ease of use, and has an independently audited no-logging policy that we can actually believe. It&#8217;s relatively expensive, but if you&#8217;re after a quality service, this could be a price worth paying.</p>
+
+
+
+<p></p>
+
+
+
+<p>IVPN is a small Gibraltar-registered service that has been preserving its customers&#8217; privacy since 2009.</p>
+
+
+
+<p>The company&#8217;s <a href="https://www.techradar.com/vpn/virtual-private-networks">VPN</a> network looks average, with servers in 45 locations across 32 countries. Torrents are supported everywhere, in theory, although the company politely asks that users avoid P2P on US servers.</p>
+
+
+
+<p></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://i0.wp.com/new.whoisyourvpn.com/wp-content/uploads/2022/12/IVPN-1024x768.png?resize=1024%2C768" alt="" class="wp-image-736" srcset="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/IVPN.png?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/IVPN.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/IVPN.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/IVPN.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/IVPN.png?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/IVPN.png?w=2580&amp;ssl=1 2580w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
+
+
+
+<h2>Tags</h2>
+
+
+
+<div class="is-layout-flex wp-block-buttons">
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/network/m247-ltd/">M247</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">DataPacket</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/network/quadranet/">Quadranet</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Leaseweb</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button">Gigabit</a></div>
+
+
+
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/network/tzulo/">Tzulo</a></div>
+</div>
+
+
+
+<h2>Related Posts</h2>
+
+
+<nav class="jp-relatedposts-i2 wp-block-jetpack-related-posts" data-layout="grid"><div class="jp-related-posts-i2__row" data-post-count="3"><ul id="related-posts-item-63aba0a2ba04e" aria-labelledby="related-posts-item-63aba0a2ba04e-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2ba04e-label" href="/surfshark/" >Surfshark</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/surfshark/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Surfshark.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2ba071" aria-labelledby="related-posts-item-63aba0a2ba071-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2ba071-label" href="/windscribe/" >Windscribe</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/windscribe/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2ba085" aria-labelledby="related-posts-item-63aba0a2ba085-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2ba085-label" href="/private-internet-access/" >Private Internet Access</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/private-internet-access/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/pia-e1670695513655.png?fit=1200%2C675&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="Private Internet Access" loading="lazy" /></a></li></ul></div></nav><p>The post <a rel="nofollow" href="/ivpn/">IVPN</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/ivpn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">735</post-id>	</item>
+		<item>
+		<title>Xeovo</title>
+		<link>/xeovo/</link>
+					<comments>/xeovo/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Wed, 30 Nov 2022 17:40:24 +0000</pubDate>
+				<category><![CDATA[VPNs]]></category>
+		<guid isPermaLink="false">/?p=668</guid>
+
+					<description><![CDATA[<p>Xeovo is a VPN service from Finland. It has a no-logging policy and servers in 16 locations all over the world. Xeovo costs 2,99€/month in the yearly plan and 4,99€/month in the monthly plan. The plans include 5 devices. Read more about the pricing of the service here. When you are using Xeovo VPN, who&#8217;s servers are you really using? During my testing I discovered that Xeovo primarily leases from Frantech, OVH, Scaleway, Hydra Communications, and Linode.</p>
+<p>The post <a rel="nofollow" href="/xeovo/">Xeovo</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Xeovo is a VPN service from Finland. It has a no-logging policy and servers in 16 locations all over the world. Xeovo costs 2,99€/month in the yearly plan and 4,99€/month in the monthly plan. The plans include 5 devices. Read more about the pricing of the service <a href="https://xeovo.com/#pricing" target="_blank" rel="noreferrer noopener">here</a>.</p>
+
+
+
+<p>When you are using <strong>Xeovo VPN</strong>, who&#8217;s servers are you really using? During my testing I discovered that Xeovo primarily leases from <strong>Frantech</strong>, <strong>OVH</strong>, <strong>Scaleway</strong>, <strong>Hydra Communications</strong>, and <strong>Linode</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://i0.wp.com/data.whoisyourvpn.com/2022/11/xeovo-1024x768.png?resize=1024%2C768&#038;ssl=1" alt="" class="wp-image-670" srcset="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/xeovo.png?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/xeovo.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/xeovo.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/xeovo.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/xeovo.png?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/xeovo.png?w=2580&amp;ssl=1 2580w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
+
+
+<nav class="jp-relatedposts-i2 wp-block-jetpack-related-posts" data-layout="grid"><div class="jp-related-posts-i2__row" data-post-count="3"><ul id="related-posts-item-63aba0a2bc502" aria-labelledby="related-posts-item-63aba0a2bc502-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2bc502-label" href="/mozilla-network/" >Mozilla VPN Network Overview</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/mozilla-network/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/mozilla-logo.png?fit=1200%2C675&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="Mozilla Logo" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2bc524" aria-labelledby="related-posts-item-63aba0a2bc524-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2bc524-label" href="/private-internet-access/" >Private Internet Access</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/private-internet-access/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/pia-e1670695513655.png?fit=1200%2C675&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="Private Internet Access" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2bc53a" aria-labelledby="related-posts-item-63aba0a2bc53a-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2bc53a-label" href="/surfshark/" >Surfshark</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/surfshark/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Surfshark.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul></div></nav><p>The post <a rel="nofollow" href="/xeovo/">Xeovo</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/xeovo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">668</post-id>	</item>
+		<item>
+		<title>OctoVPN</title>
+		<link>/octovpn/</link>
+					<comments>/octovpn/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2022 23:23:11 +0000</pubDate>
+				<category><![CDATA[VPNs]]></category>
+		<guid isPermaLink="false">/?p=656</guid>
+
+					<description><![CDATA[<p>OctoVPN is a VPN service from Norway. They offer DDoS protection, which is especially useful for gaming. Currently they only offer OpenVPN connections but should have Wireguard in the near future. But when you are connected to OctoVPN, who&#8217;s servers are you using? During my testing it was discovered that they primarily lease from Nuclearfallout, OVH, Linode, and Unesty. Several of their locations do connect to their own servers (OctoSec).</p>
+<p>The post <a rel="nofollow" href="/octovpn/">OctoVPN</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>OctoVPN is a VPN service from Norway. They offer DDoS protection, which is especially useful for gaming. Currently they only offer OpenVPN connections but should have Wireguard in the near future.</p>
+
+
+
+<p>But when you are connected to OctoVPN, who&#8217;s servers are you using? During my testing it was discovered that they primarily lease from <strong>Nuclearfallout</strong>, <strong><a href="/as/ovh/">OVH</a></strong>, <strong>Linode</strong>, and <strong>Unesty</strong>. Several of their locations do connect to their own servers (OctoSec).</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://i0.wp.com/data.whoisyourvpn.com/2022/11/octovpn-1024x768.png?resize=1024%2C768&#038;ssl=1" alt="" class="wp-image-657" srcset="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/octovpn.png?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/octovpn.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/octovpn.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/octovpn.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/octovpn.png?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/octovpn.png?w=2580&amp;ssl=1 2580w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
+
+
+<nav class="jp-relatedposts-i2 wp-block-jetpack-related-posts" data-layout="grid"><div class="jp-related-posts-i2__row" data-post-count="3"><ul id="related-posts-item-63aba0a2e9f56" aria-labelledby="related-posts-item-63aba0a2e9f56-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2e9f56-label" href="/surfshark/" >Surfshark</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/surfshark/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Surfshark.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2e9f8a" aria-labelledby="related-posts-item-63aba0a2e9f8a-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2e9f8a-label" href="/windscribe/" >Windscribe</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/windscribe/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a2e9fa0" aria-labelledby="related-posts-item-63aba0a2e9fa0-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a2e9fa0-label" href="/private-internet-access/" >Private Internet Access</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/private-internet-access/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/pia-e1670695513655.png?fit=1200%2C675&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="Private Internet Access" loading="lazy" /></a></li></ul></div></nav><p>The post <a rel="nofollow" href="/octovpn/">OctoVPN</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/octovpn/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">656</post-id>	</item>
+		<item>
+		<title>F-Secure FREEDOME</title>
+		<link>/f-secure-freedome/</link>
+					<comments>/f-secure-freedome/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Tue, 29 Nov 2022 02:35:47 +0000</pubDate>
+				<category><![CDATA[VPNs]]></category>
+		<guid isPermaLink="false">/?p=650</guid>
+
+					<description><![CDATA[<p>F-Secure is a zero-logs Finland-based security company with a plethora of products, and&#160;Freedome VPN&#160;caught my eye for a reason. F-Secure has been in the security business since 1988. Freedome VPN is cross-platform and supports Windows, MacOS, Android, and iOS. Mobile app mirrors the desktop experience in simplicity and usability. After testing numerous servers I have concluded that FREEDOME predominantly leases from Leaseweb, Performive, Euraserv, and Softlayer. Privacy — Ambiguous and Lacking Transparency F-Secure Freedome VPN’s privacy policy includes extensive information regarding the security of the service. It claims to keep no logs, which would qualify it as a zero-logging VPN…</p>
+<p>The post <a rel="nofollow" href="/f-secure-freedome/">F-Secure FREEDOME</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>F-Secure is a zero-logs Finland-based security company with a plethora of products, and&nbsp;<a href="https://bestvpn.org/go/freedome-vpn/" target="_blank" rel="noreferrer noopener">Freedome VPN</a>&nbsp;caught my eye for a reason. F-Secure has been in the security business since 1988.</p>
+
+
+
+<p>Freedome VPN is cross-platform and supports Windows, MacOS, Android, and iOS. Mobile app mirrors the desktop experience in simplicity and usability.</p>
+
+
+
+<p>After testing numerous servers I have concluded that FREEDOME predominantly leases from <strong>Leaseweb</strong>, <strong>Performive</strong>, <strong>Euraserv</strong>, and <strong>Softlayer</strong>.</p>
+
+
+
+<figure class="wp-block-image size-large"><a href="https://i0.wp.com/data.whoisyourvpn.com/2022/11/Freedome.png?ssl=1"><img decoding="async" loading="lazy" width="1024" height="768" src="https://i0.wp.com/data.whoisyourvpn.com/2022/11/Freedome-1024x768.png?resize=1024%2C768&#038;ssl=1" alt="" class="wp-image-651" srcset="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Freedome.png?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Freedome.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Freedome.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Freedome.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Freedome.png?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Freedome.png?w=2580&amp;ssl=1 2580w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></a></figure>
+
+
+
+<h2 id="privacy">Privacy — Ambiguous and Lacking Transparency</h2>
+
+
+
+<p>F-Secure Freedome VPN’s privacy policy includes extensive information regarding the security of the service. It claims to keep no logs, which would qualify it as a zero-logging VPN service.&nbsp;<strong>However, if you carefully review the privacy statement, then you will see that F-Secure collects different types of information about you.</strong></p>
+
+
+
+<p><strong>To begin with, Freedome VPN keeps a record of your IP address as well as your private communications.</strong>&nbsp;The IP address of your computer and your country is tracked along with the amount of data you transmit over F-Secure. Moreover, Freedome VPN is capable of monitoring traffic for malicious or unscrupulous files and websites as well as blocking torrents. In other words, the service has a good understanding of your activities online, otherwise, it would not be able to provide this service.</p>
+
+
+
+<figure class="wp-block-image aligncenter"><img decoding="async" src="https://i0.wp.com/www.wizcase.com/wp-content/uploads/2022/02/EN-F-Secure-Freedome-review-privacy-policy-english-autoresized41reY.jpg?w=1290&#038;ssl=1" alt="Screenshot of Freedome VPN's privacy policy" data-recalc-dims="1"/></figure>
+
+
+
+<p>Freedom leaves cookies on your computer despite claiming to provide privacy protection</p>
+
+
+
+<p><strong>Its ‘Tracker Mapper’ feature also reflects Freedome’s logging policy</strong>. The option enables you to keep track of what trackers you encounter online for 24 hours, which websites they appear on, and what information they collect. Although this information will be deleted after three days, it shows just how easy it is for Freedome VPN to monitor your online activities. Freedome VPN may be very effective in terms of security, but that effectiveness is undercut with these lackluster privacy measures.</p>
+
+
+
+<p>On the plus side, Freedome VPN has its headquarters in Finland.&nbsp;<strong>The country is known for having one of the most stringent privacy laws in the world, making it one of the best jurisdictions for VPN firms.</strong>&nbsp;Thus, there is no obligation on the part of the provider to give out any information. Even with this favorable location, I am hesitant to recommend trusting Freedome VPN with your data given its tendency to monitor your activity.</p>
+<p>The post <a rel="nofollow" href="/f-secure-freedome/">F-Secure FREEDOME</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/f-secure-freedome/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">650</post-id>	</item>
+		<item>
+		<title>Windscribe</title>
+		<link>/windscribe/</link>
+					<comments>/windscribe/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Sun, 27 Nov 2022 21:35:22 +0000</pubDate>
+				<category><![CDATA[VPNs]]></category>
+		<guid isPermaLink="false">/?p=557</guid>
+
+					<description><![CDATA[<p>Windscribe offers both a free and paid VPN service. While the paid subscription (Windscribe Pro) is better, the free plan offers a generous 10GB data allowance, and it’s currently the&#160;best free VPN available. Windscribe doesn&#8217;t stand out in one area, but overall it&#8217;s a decent service that&#8217;s versatile, with impressive speeds that could suit most users. Despite its weak support service, many users will be enticed by its generous free plan, which is one of the best around. Some users familiar with the name may be wary to trust their services, after the poor security practices were revealed in their…</p>
+<p>The post <a rel="nofollow" href="/windscribe/">Windscribe</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<p>Windscribe offers both a free and paid VPN service. While the paid subscription (Windscribe Pro) is better, the free plan offers a generous 10GB data allowance, and it’s currently the&nbsp;best free VPN available. Windscribe doesn&#8217;t stand out in one area, but overall it&#8217;s a decent service that&#8217;s versatile, with impressive speeds that could suit most users. Despite its weak support service, many users will be enticed by its generous free plan, which is one of the best around.</p>
+
+
+
+<p>Some users familiar with the name may be wary to trust their services, after the poor security practices were revealed in their <a href="https://restoreprivacy.com/windscribe-vpn-security-breach-servers-seized/">2021 data breach</a>. The company has since promised to do better. You can read the original article, but here are the main highlights:</p>
+
+
+
+<ul>
+<li>Windscribe left its VPN servers in Ukraine unencrypted and unsecured.</li>
+
+
+
+<li>When Ukrainian authorities seized the servers, they also obtained Windscribe’s private key.</li>
+
+
+
+<li>With the private key, Ukrainian officials could decrypt traffic and spy on Windscribe users.</li>
+
+
+
+<li>Windscribe admitted that it does not follow “industry best practices” with its server network, but promised to change.</li>
+
+
+
+<li>Windscribe is in the process of upgrading server security and hopefully undergoing a security audit.</li>
+</ul>
+
+
+
+<p>Based on data collected, when you are using Windscribe VPN you are predominantly using <strong>Quadranet</strong>, <strong>CDNext</strong>, <strong><a href="/network/global-secure-layer-gsl/">Global Secure Layer</a></strong>, <strong>CDN77</strong>, or <strong><a href="/network/m247-ltd/">M247</a></strong> servers.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" loading="lazy" width="1024" height="768" src="https://i0.wp.com/data.whoisyourvpn.com/2022/11/Windscribe-1024x768.png?resize=1024%2C768&#038;ssl=1" alt="" class="wp-image-559" srcset="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Windscribe.png?w=2580&amp;ssl=1 2580w" sizes="(max-width: 1024px) 100vw, 1024px" data-recalc-dims="1" /></figure>
+
+
+
+<h3 id="pros-and-cons">Windscribe pros &amp; cons</h3>
+
+
+
+<div class="is-layout-flex wp-container-4 wp-block-columns">
+<div class="is-layout-flow wp-block-column">
+<p><strong>Pros</strong></p>
+
+
+
+<ul>
+<li>Free version with 10GB of data</li>
+
+
+
+<li>Unlimited simultaneous connections</li>
+
+
+
+<li>Unblocks various streaming sites</li>
+
+
+
+<li>Supports torrenting</li>
+
+
+
+<li>No DNS leaks</li>
+
+
+
+<li>Highly configurable</li>
+
+
+
+<li>Military-grade encryption</li>
+
+
+
+<li>Lots of tunneling protocols</li>
+
+
+
+<li>Reliable kill switch</li>
+
+
+
+<li>Split tunneling on Android</li>
+</ul>
+</div>
+
+
+
+<div class="is-layout-flow wp-block-column">
+<p><strong>Cons</strong></p>
+
+
+
+<ul>
+<li>Potential speed issues</li>
+
+
+
+<li>Not that many servers</li>
+
+
+
+<li>WireGuard only on Android</li>
+
+
+
+<li>No independent audit</li>
+
+
+
+<li>Has had at least 2 unencrypted servers in Ukraine</li>
+
+
+
+<li>Based in a 5-Eyes country</li>
+</ul>
+</div>
+</div>
+
+
+<nav class="jp-relatedposts-i2 wp-block-jetpack-related-posts" data-layout="grid"><div class="jp-related-posts-i2__row" data-post-count="3"><ul id="related-posts-item-63aba0a319794" aria-labelledby="related-posts-item-63aba0a319794-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a319794-label" href="/cloudflare-warp/" >Cloudflare Warp+</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/cloudflare-warp/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/12/Cloudflare_default_OG_.webp?fit=1200%2C627&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a3197bb" aria-labelledby="related-posts-item-63aba0a3197bb-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a3197bb-label" href="/surfshark/" >Surfshark</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/surfshark/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Surfshark.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul><ul id="related-posts-item-63aba0a3197d2" aria-labelledby="related-posts-item-63aba0a3197d2-label" class="jp-related-posts-i2__post" role="menuitem"><li class="jp-related-posts-i2__post-link"><a id="related-posts-item-63aba0a3197d2-label" href="/brave/" >Brave</a></li><li class="jp-related-posts-i2__post-img-link"><a href="/brave/" ><img decoding="async" src="https://i0.wp.com/whoisyourvpn.com/wp-content/uploads/2022/11/Brave-Guardian.png?fit=1200%2C900&#038;ssl=1&#038;resize=350%2C200" width="350" height="200" alt="" loading="lazy" /></a></li></ul></div></nav><p>The post <a rel="nofollow" href="/windscribe/">Windscribe</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/windscribe/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">557</post-id>	</item>
+		<item>
+		<title>Traceroute to PIA London</title>
+		<link>/traceroute-to-pia-london/</link>
+					<comments>/traceroute-to-pia-london/#respond</comments>
+		
+		<dc:creator><![CDATA[skarz]]></dc:creator>
+		<pubDate>Tue, 22 Nov 2022 23:02:05 +0000</pubDate>
+				<category><![CDATA[Traceroutes]]></category>
+		<guid isPermaLink="false">/?p=543</guid>
+
+					<description><![CDATA[<p>The post <a rel="nofollow" href="/traceroute-to-pia-london/">Traceroute to PIA London</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[
+<div class="wp-block-getwid-section alignfull getwid-section-content-full-width"><div class="wp-block-getwid-section__wrapper"><div class="wp-block-getwid-section__inner-wrapper"><div class="wp-block-getwid-section__background-holder"><div class="wp-block-getwid-section__background"></div><div class="wp-block-getwid-section__foreground"></div></div><div class="wp-block-getwid-section__content"><div class="wp-block-getwid-section__inner-content">
+<figure id="result-table" class="wp-block-table is-style-stripes"><table class="has-fixed-layout"><tbody><tr><td>1</td><td>lo0-0.gw1.cjj1.us.linode.com<br>173.255.239.101</td><td>LINODE-AP Linode, LLC, US</td><td>173.255.239.0/24</td><td><img decoding="async" src="https://i0.wp.com/traceroute-online.com/static/img/flags/United-States.png?w=1290&#038;ssl=1" data-recalc-dims="1"></td><td>0.0%</td><td>2.87ms</td></tr><tr><td>2</td><td>nyk-b2-link.ip.twelve99.net<br>62.115.172.130</td><td>TWELVE99 Arelion, fka Telia Carrier, SE</td><td>62.115.0.0/16</td><td><img decoding="async" src="https://i0.wp.com/traceroute-online.com/static/img/flags/Sweden.png?w=1290&#038;ssl=1" data-recalc-dims="1"></td><td>0.0%</td><td>1.96ms</td></tr><tr><td>3</td><td>nyk-bb2-link.ip.twelve99.net<br>62.115.113.70</td><td>TWELVE99 Arelion, fka Telia Carrier, SE</td><td>62.115.0.0/16</td><td><img decoding="async" src="https://i0.wp.com/traceroute-online.com/static/img/flags/Sweden.png?w=1290&#038;ssl=1" data-recalc-dims="1"></td><td>0.0%</td><td>3.31ms</td></tr><tr><td>4</td><td>nyk-b7-link.ip.twelve99.net<br>62.115.143.13</td><td>TWELVE99 Arelion, fka Telia Carrier, SE</td><td>62.115.0.0/16</td><td><img decoding="async" src="https://i0.wp.com/traceroute-online.com/static/img/flags/Sweden.png?w=1290&#038;ssl=1" data-recalc-dims="1"></td><td>0.0%</td><td>2.05ms</td></tr><tr><td>5</td><td>gtt-ic339884-nyk-b3.ip.twelve99-cust.net<br>62.115.167.205</td><td>TWELVE99 Arelion, fka Telia Carrier, SE</td><td>62.115.0.0/16</td><td><img decoding="async" src="https://i0.wp.com/traceroute-online.com/static/img/flags/Sweden.png?w=1290&#038;ssl=1" data-recalc-dims="1"></td><td>0.0%</td><td>5.38ms</td></tr><tr><td>6</td><td>ae34.cr1-lon1.ip4.gtt.net<br>89.149.137.189</td><td>GTT-BACKBONE GTT, US</td><td>89.149.128.0/18</td><td><img decoding="async" src="https://i0.wp.com/traceroute-online.com/static/img/flags/Germany.png?w=1290&#038;ssl=1" data-recalc-dims="1"></td><td>0.0%</td><td>71.62ms</td></tr><tr><td>7</td><td>191.101.209.46</td><td>GTT-BACKBONE GTT, US</td><td>191.101.209.0/24</td><td><img decoding="async" src="https://i0.wp.com/traceroute-online.com/static/img/flags/United-Kingdom.png?w=1290&#038;ssl=1" data-recalc-dims="1"></td><td>0.0%</td><td>70.32ms</td></tr></tbody></table></figure>
+
+
+</div></div></div></div></div>
+<p>The post <a rel="nofollow" href="/traceroute-to-pia-london/">Traceroute to PIA London</a> appeared first on <a rel="nofollow" href="/">VPN Transparency Project</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/traceroute-to-pia-london/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">543</post-id>	</item>
+	</channel>
+</rss>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 152/219 objects using disk
+Page Caching using apc (Page is feed) 
+Database Caching 2/37 queries in 0.032 seconds using disk (Request-wide modification query)
+
+Served from: new.whoisyourvpn.com @ 2022-12-27 17:49:23 by W3 Total Cache
+-->
